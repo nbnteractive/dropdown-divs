@@ -1,0 +1,36 @@
+.wrap {
+	padding: 10px;
+	margin-bottom: 10px;
+	overflow: hidden;
+}
+
+h3 {
+	font-family: 'Bitter', serif;
+	font-style: bold;
+	color: #551A8B;
+	padding-left: 5px;
+}
+
+.col1 {
+	float: left;
+	width: 47%;
+	padding-left: 10px;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 16px;
+}
+
+.col2 {
+	float: right;
+	width: 47%;
+	padding-right: 10px;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 16px;
+}
+
+.article {
+	font-size: 20px;
+}
+
+#accordion {
+	background-color: #EDEDED;
+}
